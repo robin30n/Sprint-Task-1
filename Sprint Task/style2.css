@@ -1,0 +1,59 @@
+* {
+    margin: 5px;
+}
+
+.navbar {
+    background-color: red;
+    color: white;
+    padding: 15px;
+}
+
+.navbar h3, h5 {
+    display: inline;
+    font-weight: lighter;
+}
+
+.navbar a {
+    font-weight: bold;
+}
+
+.right_side {
+    display: inline;
+    float: right;
+}
+
+.right_side h5 {
+    margin: 0 10px;
+}
+
+.Khabib_Conor {
+    background-color: skyblue;
+    padding: 20px;
+}
+.Khabib_Conor td {
+    padding: 10px 0;
+}
+.Khabib_Conor table {
+    margin: 20px;
+    display: inline;
+    vertical-align: top;
+}
+
+.recommended_news table {
+    display: inline;
+}
+.recommended_news{
+    text-align: center;
+}
+
+
+.latest_news{
+    margin: 15px;
+    text-align: center;
+}
+.recommended_news button{
+    background-color: red;
+    color: white;
+    border: none;
+    height: 25px;
+}
